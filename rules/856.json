@@ -1,0 +1,9 @@
+{
+  "transaction": "856",
+  "mandatory_segments": ["ST", "BSN", "HL", "SE"],
+  "max_use": {
+    "DTM": 10,
+    "PID": 200,
+    "REF": 200
+  }
+}

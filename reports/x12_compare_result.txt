@@ -1,0 +1,20 @@
+============================================================
+            X12 FILE COMPARISON REPORT
+============================================================
+
+PROD File : sample_856_processed.x12
+TEST File : sample_856_original.x12
+
+Transaction Set : 856
+Comparison Date : 2025-12-19 11:35:16
+------------------------------------------------------------
+
+RESULT : PASS
+------------------------------------------------------------
+
+No differences detected between PROD and TEST files.
+All segments and elements match exactly.
+
+============================================================
+END OF REPORT
+============================================================
